@@ -159,7 +159,7 @@ export default class loginComponent extends React.Component {
               lineHeight: '22px',
               marginTop: '40px',
               fontFamily: 'RionaSansLight,Arial,Helvetica,sans-serif',
-            }}><span style={{fontFamily: 'RionaSansLight,Arial,Helvetica,sans-serif'}}>{__('Welcome to')}</span> <b style={{ fontFamily: 'RionaSansMedium,Arial,Helvetica,sans-serif' }}>LinkIt Smart 7688</b>.</p>
+            }}><span style={{fontFamily: 'RionaSansLight,Arial,Helvetica,sans-serif'}}>{__('Welcome to')}</span> <b style={{ fontFamily: 'RionaSansMedium,Arial,Helvetica,sans-serif' }}>Muabaobao Smart</b>.</p>
             <h3 style={ styles.panelTitle }>{__('Account')}</h3>
             <p style={ styles.panelContent }>root(default)</p>
             <TextField
@@ -216,7 +216,7 @@ export default class loginComponent extends React.Component {
               borderTop: '1px solid rgba(0,0,0,0.12)',
               paddingTop: '10px',
               textAlign: 'center',
-            }} >{ __('For advanced network configuration, go to ') }<a style={{ color: '#00a1de', textDecoration: 'none' }} href="/cgi-bin/luci">OpenWrt</a>.</p>
+            }} >{ __('For advanced more information, go to ') }<a style={{ color: '#00a1de', textDecoration: 'none' }} href="/cgi-bin/luci">Muabaobao</a>.</p>
           </div>
         </div>
         { dialogMsg }
